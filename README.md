@@ -1,4 +1,5 @@
 # ubiquitous-doodle
 practicing github collaboration
-Team members: 
-Michael 
+Team members: Samuel 
+Kelsey!
+Michael
